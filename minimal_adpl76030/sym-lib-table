@@ -308,4 +308,5 @@
   (lib (name "TRANSISTORS_ZXMP6A17E6TA_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/TRANSISTORS_ZXMP6A17E6TA_DATA_BASE.kicad_sym")(options "")(descr ""))
   (lib (name "INDUCTORS_74437336_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/INDUCTORS_74437336_DATA_BASE.kicad_sym")(options "")(descr ""))
   (lib (name "TRANSISTORS_BSZ065N06LS5ATMA1_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/TRANSISTORS_BSZ065N06LS5ATMA1_DATA_BASE.kicad_sym")(options "")(descr ""))
+  (lib (name "TRANSISTORS_BSZ031NE2LS5ATMA1_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/TRANSISTORS_BSZ031NE2LS5ATMA1_DATA_BASE.kicad_sym")(options "")(descr ""))
 )
