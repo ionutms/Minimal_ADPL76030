@@ -5,6 +5,544 @@
 	(uuid "c516c371-706a-4f99-9c95-8adb7fae9700")
 	(paper "A3")
 	(lib_symbols
+		(symbol "INDUCTORS_74437336_DATA_BASE:L_74437336010"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "1.0 µH"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "inductor_footprints:74437336"
+				(at 0 -5.08 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.we-online.com/components/products/datasheet/010.pdf"
+				(at 0 -7.62 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "INDUCTOR SMD 1.0 µH ±20%"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "74437336010"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Wurth Elektronik"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Maximum DC Current (A)" "7.4"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Maximum DC Resistance (Ω)" "0.014"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "74437336"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "L_74437336010"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "±20%"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/74437336010"
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "L_74437336010_1_1"
+				(arc
+					(start -5.08 0.0056)
+					(mid -3.81 1.27)
+					(end -2.54 0.0056)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.54 0.0056)
+					(mid -1.27 1.27)
+					(end 0 0.0056)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0.0056)
+					(mid 1.27 1.27)
+					(end 2.54 0.0056)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 0.0056)
+					(mid 3.81 1.27)
+					(end 5.08 0.0056)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "TRANSISTORS_BSZ065N06LS5ATMA1_DATA_BASE:Q_BSZ065N06LS5ATMA1"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "60 V"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "transistor_footprints:TSDSON-8FL"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/24/49/infineon-bsz065n06ls5-datasheet-en.pdf?fileId=5546d4625696ed760156e55f60164817"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Transistor 60 V"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Collector Current (A)" "-"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Drain Current (A)" "65.0"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "BSZ065N06LS5ATMA1"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Infineon Technologies"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "BSZ065N06LS5ATMA1"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "Q_BSZ065N06LS5ATMA1"
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Transistor Type" "N-Channel"
+				(at 0 -33.02 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/BSZ065N06LS5ATMA1"
+				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "Q_BSZ065N06LS5ATMA1_1_0"
+				(circle
+					(center -2.54 0)
+					(radius 0.0254)
+					(stroke
+						(width 0.381)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -6.35) (xy 0 -2.54) (xy -2.54 -2.54) (xy 2.54 -2.54) (xy 0 -2.54) (xy 0 -6.35)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 0)
+					(radius 0.0254)
+					(stroke
+						(width 0.381)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 0)
+					(radius 0.0254)
+					(stroke
+						(width 0.381)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 1.27) (xy 5.08 0) (xy 2.54 0) (xy 2.54 1.27) (xy 0.508 1.27) (xy 0.508 1.778) (xy -0.508 1.27)
+						(xy -0.508 1.778) (xy -0.508 1.27) (xy -2.54 1.27) (xy -2.54 0) (xy -5.08 0) (xy -5.08 1.27) (xy -5.08 0)
+						(xy -2.032 0) (xy -2.032 -2.032) (xy -2.54 -2.032) (xy -1.524 -2.032) (xy -2.032 -2.032) (xy -2.032 0)
+						(xy -2.54 0) (xy -2.54 1.27) (xy -0.508 1.27) (xy -0.508 0.762) (xy -0.508 1.27) (xy 0.508 0.762)
+						(xy 0.508 1.27) (xy 2.54 1.27) (xy 2.54 0) (xy 0 0) (xy 0 -1.016) (xy -0.508 -1.016) (xy 0 -2.032)
+						(xy -0.508 -2.032) (xy 0.508 -2.032) (xy 0 -2.032) (xy 0.508 -1.016) (xy 0 -1.016) (xy 0 0) (xy 2.032 0)
+						(xy 2.032 -2.032) (xy 1.524 -2.032) (xy 2.54 -2.032) (xy 2.032 -2.032) (xy 2.032 0) (xy 5.08 0)
+						(xy 5.08 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin unspecified line
+					(at -7.62 1.27 0)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 2.54 -6.35 180)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 1.27 180)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 -1.27 180)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 -3.81 180)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "UNITED_IC_ADI:U_ADPL76030EUFD-PBF"
 			(pin_names
 				(offset 0.254)
@@ -13,7 +551,7 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "U"
-				(at 17.78 43.18 0)
+				(at 20.32 43.18 0)
 				(effects
 					(font
 						(size 1.524 1.524)
@@ -22,7 +560,7 @@
 				)
 			)
 			(property "Value" "ADPL76030EUFD-PBF"
-				(at 17.78 40.64 0)
+				(at 20.32 40.64 0)
 				(effects
 					(font
 						(size 1.524 1.524)
@@ -31,7 +569,7 @@
 				)
 			)
 			(property "Footprint" "analog_devices_footprints:UFD_05-08-1712_ADI"
-				(at 17.78 -45.72 0)
+				(at 20.32 -45.72 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -42,7 +580,7 @@
 				)
 			)
 			(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/adpl76030.pdf"
-				(at 17.78 -40.64 0)
+				(at 20.32 -40.64 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -53,7 +591,7 @@
 				)
 			)
 			(property "Description" "55 V, 1.4 MHz Synchronous 4-Switch Buck-Boost Controller with Spread Spectrum"
-				(at 17.78 -43.18 0)
+				(at 20.32 -43.18 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -63,7 +601,7 @@
 				)
 			)
 			(property "MPN" "ADPL76030EUFD-PBF"
-				(at 17.78 -48.26 0)
+				(at 20.32 -48.26 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -74,8 +612,8 @@
 			)
 			(symbol "U_ADPL76030EUFD-PBF_0_1"
 				(rectangle
-					(start -17.78 38.1)
-					(end 17.78 -38.1)
+					(start -20.32 38.1)
+					(end 20.32 -38.1)
 					(stroke
 						(width 0)
 						(type default)
@@ -85,7 +623,7 @@
 					)
 				)
 				(pin power_in line
-					(at -20.32 30.48 0)
+					(at -22.86 30.48 0)
 					(length 2.54)
 					(name "BST1"
 						(effects
@@ -103,7 +641,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -20.32 25.4 0)
+					(at -22.86 25.4 0)
 					(length 2.54)
 					(name "BG1"
 						(effects
@@ -121,7 +659,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -20.32 20.32 0)
+					(at -22.86 20.32 0)
 					(length 2.54)
 					(name "TG1"
 						(effects
@@ -139,7 +677,7 @@
 					)
 				)
 				(pin power_in line
-					(at -20.32 15.24 0)
+					(at -22.86 15.24 0)
 					(length 2.54)
 					(name "VIN"
 						(effects
@@ -157,7 +695,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -20.32 0 0)
+					(at -22.86 0 0)
 					(length 2.54)
 					(name "EN/UVLO"
 						(effects
@@ -175,7 +713,7 @@
 					)
 				)
 				(pin output line
-					(at -20.32 -17.78 0)
+					(at -22.86 -17.78 0)
 					(length 2.54)
 					(name "ISMON"
 						(effects
@@ -193,7 +731,7 @@
 					)
 				)
 				(pin input line
-					(at -20.32 -22.86 0)
+					(at -22.86 -22.86 0)
 					(length 2.54)
 					(name "CTRL"
 						(effects
@@ -211,7 +749,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -20.32 -27.94 0)
+					(at -22.86 -27.94 0)
 					(length 2.54)
 					(name "TEST2"
 						(effects
@@ -229,7 +767,7 @@
 					)
 				)
 				(pin output line
-					(at -20.32 -33.02 0)
+					(at -22.86 -33.02 0)
 					(length 2.54)
 					(name "VREF"
 						(effects
@@ -247,7 +785,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -15.24 40.64 270)
+					(at -17.78 40.64 270)
 					(length 2.54)
 					(name "SW1"
 						(effects
@@ -265,7 +803,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -10.16 40.64 270)
+					(at -12.7 40.64 270)
 					(length 2.54)
 					(name "LSP"
 						(effects
@@ -391,7 +929,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 15.24 40.64 270)
+					(at 17.78 40.64 270)
 					(length 2.54)
 					(name "SW2"
 						(effects
@@ -409,7 +947,7 @@
 					)
 				)
 				(pin power_in line
-					(at 20.32 30.48 180)
+					(at 22.86 30.48 180)
 					(length 2.54)
 					(name "BST2"
 						(effects
@@ -427,7 +965,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 20.32 25.4 180)
+					(at 22.86 25.4 180)
 					(length 2.54)
 					(name "BG2"
 						(effects
@@ -445,7 +983,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 20.32 20.32 180)
+					(at 22.86 20.32 180)
 					(length 2.54)
 					(name "TG2"
 						(effects
@@ -463,7 +1001,7 @@
 					)
 				)
 				(pin power_in line
-					(at 20.32 15.24 180)
+					(at 22.86 15.24 180)
 					(length 2.54)
 					(name "VOUT"
 						(effects
@@ -481,7 +1019,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 20.32 10.16 180)
+					(at 22.86 10.16 180)
 					(length 2.54)
 					(name "ISP"
 						(effects
@@ -499,7 +1037,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 20.32 0 180)
+					(at 22.86 0 180)
 					(length 2.54)
 					(name "ISN"
 						(effects
@@ -517,7 +1055,7 @@
 					)
 				)
 				(pin input line
-					(at 20.32 -10.16 180)
+					(at 22.86 -10.16 180)
 					(length 2.54)
 					(name "FB"
 						(effects
@@ -535,7 +1073,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 20.32 -17.78 180)
+					(at 22.86 -17.78 180)
 					(length 2.54)
 					(name "SYNC/SPRD"
 						(effects
@@ -553,7 +1091,7 @@
 					)
 				)
 				(pin power_in line
-					(at 20.32 -22.86 180)
+					(at 22.86 -22.86 180)
 					(length 2.54)
 					(name "INTVCC"
 						(effects
@@ -592,7 +1130,7 @@
 					)
 				)
 				(pin output line
-					(at 20.32 -33.02 180)
+					(at 22.86 -33.02 180)
 					(length 2.54)
 					(name "~{PGOOD}"
 						(effects
@@ -612,6 +1150,514 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 170.18 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0908b544-60ca-4f08-9d0d-d057b31d268d")
+	)
+	(junction
+		(at 195.58 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "553e2018-42eb-4003-ad2d-fb3d22a910a9")
+	)
+	(junction
+		(at 160.02 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "917fd101-3fa0-445e-9dd8-28faf6a9902d")
+	)
+	(junction
+		(at 160.02 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e752e82e-26b1-4142-a911-a29e7d3a07ab")
+	)
+	(junction
+		(at 170.18 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f43bc75a-de38-4604-8750-492739c4a778")
+	)
+	(wire
+		(pts
+			(xy 220.98 96.52) (xy 220.98 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "060f2364-6768-443d-8746-1dd429a0930c")
+	)
+	(wire
+		(pts
+			(xy 177.8 106.68) (xy 175.26 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1601af07-18c2-4aa0-b188-cdcbe8aaaa9f")
+	)
+	(wire
+		(pts
+			(xy 160.02 101.6) (xy 160.02 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f11c57d-8fed-4656-8ca1-24a603fbe37b")
+	)
+	(wire
+		(pts
+			(xy 172.72 101.6) (xy 172.72 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31ab01a2-7435-441a-b64d-4ffe1187afa9")
+	)
+	(wire
+		(pts
+			(xy 185.42 101.6) (xy 185.42 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3feb3f53-8821-4056-bb53-8127adb6fba4")
+	)
+	(wire
+		(pts
+			(xy 170.18 99.06) (xy 172.72 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5930c4ff-c35f-4824-9df9-fd615a67ad08")
+	)
+	(wire
+		(pts
+			(xy 180.34 121.92) (xy 152.4 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5996f735-4ff3-4a5e-ae59-fe0d0f5cb8b9")
+	)
+	(wire
+		(pts
+			(xy 220.98 96.52) (xy 219.71 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ea1d5e0-ca33-44ba-a865-d569ab409770")
+	)
+	(wire
+		(pts
+			(xy 152.4 121.92) (xy 152.4 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c90cd97-a532-4989-8971-8f644ff5f86c")
+	)
+	(wire
+		(pts
+			(xy 195.58 185.42) (xy 195.58 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7db788e1-0e63-4209-afc6-9888d26c377b")
+	)
+	(wire
+		(pts
+			(xy 157.48 101.6) (xy 160.02 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8588adc7-81a9-45cd-a033-f7d88858c134")
+	)
+	(wire
+		(pts
+			(xy 170.18 96.52) (xy 170.18 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a23cc11-0d59-4ba9-a741-521f4c527def")
+	)
+	(wire
+		(pts
+			(xy 160.02 99.06) (xy 160.02 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c1f4d1a-bfc5-4ad9-adb4-268a309b7629")
+	)
+	(wire
+		(pts
+			(xy 203.2 96.52) (xy 204.47 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "955fdddb-ccd7-4e2f-8fb8-2d2e90dcab3f")
+	)
+	(wire
+		(pts
+			(xy 177.8 116.84) (xy 177.8 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f50ab46-d1de-4c93-ade9-b9225cad6075")
+	)
+	(wire
+		(pts
+			(xy 167.64 99.06) (xy 170.18 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0c02bee-61b4-48d2-a94c-f38225ca26d1")
+	)
+	(wire
+		(pts
+			(xy 185.42 96.52) (xy 170.18 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a18a0a1a-0290-4ce2-8199-74a83d431bf8")
+	)
+	(wire
+		(pts
+			(xy 170.18 96.52) (xy 160.02 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a44a56d1-e36a-4b18-b5af-378f88633ace")
+	)
+	(wire
+		(pts
+			(xy 157.48 99.06) (xy 160.02 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa613cbf-ece5-483b-bce3-143cf295cede")
+	)
+	(wire
+		(pts
+			(xy 167.64 101.6) (xy 167.64 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b13b1e83-829d-4f8b-902e-f29eb5fb96e4")
+	)
+	(wire
+		(pts
+			(xy 167.64 116.84) (xy 167.64 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b175ea5b-1653-4004-a2e1-20b63744a9b6")
+	)
+	(wire
+		(pts
+			(xy 195.58 185.42) (xy 198.12 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2c76c1e-e223-40a5-8ffe-cfed4883bc69")
+	)
+	(wire
+		(pts
+			(xy 203.2 96.52) (xy 203.2 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4343afd-1fb6-48c5-8cbb-dc511637d674")
+	)
+	(wire
+		(pts
+			(xy 198.12 182.88) (xy 198.12 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6a7133e-580f-4382-ad17-1b50ba367893")
+	)
+	(wire
+		(pts
+			(xy 170.18 99.06) (xy 170.18 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7137862-51f5-4453-846c-5f3c8eb690ce")
+	)
+	(wire
+		(pts
+			(xy 180.34 116.84) (xy 177.8 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7880ec9-81bb-4c54-81c1-57a1a51aa314")
+	)
+	(wire
+		(pts
+			(xy 157.48 96.52) (xy 160.02 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc7e5433-207d-4950-88a7-6f71812712a8")
+	)
+	(wire
+		(pts
+			(xy 195.58 182.88) (xy 195.58 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec59d6e1-d8c6-4613-beb7-53481d3c8451")
+	)
+	(label "SW1"
+		(at 185.42 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "95356fe9-ffaa-4343-9987-b627abbc968c")
+	)
+	(label "SW2"
+		(at 220.98 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a68f97bd-914c-4fe3-b04a-4425e6b07e05")
+	)
+	(label "BG1"
+		(at 175.26 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d923d35c-94a3-4cb3-9dc0-eb7b3d2355f5")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 167.64 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2a5af6c7-9938-4e23-aa2f-5c2cd5ea8836")
+		(property "Reference" "#PWR01"
+			(at 167.64 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 165.1 119.3799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 167.64 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f307e7a7-8601-4e48-98fe-a901469c8c82")
+		)
+		(instances
+			(project ""
+				(path "/c516c371-706a-4f99-9c95-8adb7fae9700"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "UNITED_IC_ADI:U_ADPL76030EUFD-PBF")
@@ -624,7 +1670,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e459144-b244-433c-8181-57358c9d4d13")
 		(property "Reference" "U1"
-			(at 220.5833 99.06 0)
+			(at 223.1233 99.06 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -633,7 +1679,7 @@
 			)
 		)
 		(property "Value" "ADPL76030EUFD-PBF"
-			(at 220.5833 101.6 0)
+			(at 223.1233 101.6 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -774,6 +1820,578 @@
 			(project ""
 				(path "/c516c371-706a-4f99-9c95-8adb7fae9700"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "INDUCTORS_74437336_DATA_BASE:L_74437336010")
+		(at 212.09 96.52 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8501dddb-247e-458a-9d4a-fe504aa9a6a3")
+		(property "Reference" "L1"
+			(at 212.09 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1.0 µH"
+			(at 212.09 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "inductor_footprints:74437336"
+			(at 212.09 101.6 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/010.pdf"
+			(at 212.09 104.14 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "INDUCTOR SMD 1.0 µH ±20%"
+			(at 212.09 106.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74437336010"
+			(at 212.09 109.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 212.09 111.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Maximum DC Current (A)" "7.4"
+			(at 212.09 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Maximum DC Resistance (Ω)" "0.014"
+			(at 212.09 116.84 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "74437336"
+			(at 212.09 119.38 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "L_74437336010"
+			(at 212.09 121.92 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±20%"
+			(at 212.09 124.46 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/74437336010"
+			(at 212.09 127 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e975ef3d-fdf4-4731-afb8-32f88c7b4217")
+		)
+		(pin "2"
+			(uuid "cd2dae35-b5b0-44f2-8dc8-7a314338b8ed")
+		)
+		(instances
+			(project ""
+				(path "/c516c371-706a-4f99-9c95-8adb7fae9700"
+					(reference "L1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TRANSISTORS_BSZ065N06LS5ATMA1_DATA_BASE:Q_BSZ065N06LS5ATMA1")
+		(at 168.91 109.22 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "933bae29-2a03-45bd-9ace-fd8d1c38dccd")
+		(property "Reference" "Q2"
+			(at 166.37 107.9499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "60 V"
+			(at 166.37 110.4899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "transistor_footprints:TSDSON-8FL"
+			(at 179.07 109.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/24/49/infineon-bsz065n06ls5-datasheet-en.pdf?fileId=5546d4625696ed760156e55f60164817"
+			(at 181.61 109.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Transistor 60 V"
+			(at 184.15 109.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Collector Current (A)" "-"
+			(at 186.69 109.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Drain Current (A)" "65.0"
+			(at 189.23 109.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BSZ065N06LS5ATMA1"
+			(at 191.77 109.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Infineon Technologies"
+			(at 194.31 109.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "BSZ065N06LS5ATMA1"
+			(at 196.85 109.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "Q_BSZ065N06LS5ATMA1"
+			(at 199.39 109.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Transistor Type" "N-Channel"
+			(at 201.93 109.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/BSZ065N06LS5ATMA1"
+			(at 204.47 109.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "ccc58aa2-b87b-48cd-a125-dc7ae3b349d0")
+		)
+		(pin "1"
+			(uuid "4e49f13f-0208-4674-9e69-2010cd8357d6")
+		)
+		(pin "2"
+			(uuid "55da84eb-4959-47ec-875c-7901ee2d67b4")
+		)
+		(pin "5"
+			(uuid "13a0a5b0-5cdf-4f2b-a9c9-861c8836b1dc")
+		)
+		(pin "4"
+			(uuid "9ea95f8d-9bd5-44a8-a85a-a0a1ee34b445")
+		)
+		(instances
+			(project "minimal_adpl76030"
+				(path "/c516c371-706a-4f99-9c95-8adb7fae9700"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 195.58 186.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cdd6c5cf-6107-45c0-8074-e870d9051578")
+		(property "Reference" "#PWR02"
+			(at 195.58 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 195.58 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 195.58 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 195.58 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "36c4665e-0ae3-4d48-a3d6-21cbe2a7c768")
+		)
+		(instances
+			(project "minimal_adpl76030"
+				(path "/c516c371-706a-4f99-9c95-8adb7fae9700"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TRANSISTORS_BSZ065N06LS5ATMA1_DATA_BASE:Q_BSZ065N06LS5ATMA1")
+		(at 149.86 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f84d0ab1-39f6-45a3-9b43-016ddd30b328")
+		(property "Reference" "Q1"
+			(at 149.86 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "60 V"
+			(at 149.86 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "transistor_footprints:TSDSON-8FL"
+			(at 149.86 107.95 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/24/49/infineon-bsz065n06ls5-datasheet-en.pdf?fileId=5546d4625696ed760156e55f60164817"
+			(at 149.86 110.49 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Transistor 60 V"
+			(at 149.86 113.03 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Collector Current (A)" "-"
+			(at 149.86 115.57 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Drain Current (A)" "65.0"
+			(at 149.86 118.11 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BSZ065N06LS5ATMA1"
+			(at 149.86 120.65 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Infineon Technologies"
+			(at 149.86 123.19 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "BSZ065N06LS5ATMA1"
+			(at 149.86 125.73 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "Q_BSZ065N06LS5ATMA1"
+			(at 149.86 128.27 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Transistor Type" "N-Channel"
+			(at 149.86 130.81 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/BSZ065N06LS5ATMA1"
+			(at 149.86 133.35 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "db4943c4-b759-443a-b88f-955e3ba049d1")
+		)
+		(pin "1"
+			(uuid "4c66ba8f-8cae-4bcc-a85a-0de106d204d1")
+		)
+		(pin "2"
+			(uuid "856ca9e4-6972-43d7-8820-4fc550fff45a")
+		)
+		(pin "5"
+			(uuid "b38cb695-6334-4cad-bc0c-fb95ec94935c")
+		)
+		(pin "4"
+			(uuid "497a782d-0001-4137-b32a-0cd92bf93ea8")
+		)
+		(instances
+			(project ""
+				(path "/c516c371-706a-4f99-9c95-8adb7fae9700"
+					(reference "Q1")
 					(unit 1)
 				)
 			)
