@@ -11967,7 +11967,7 @@
 			)
 		)
 	)
-	(footprint "connector_footprints:FW-04-03-G-D-085-155"
+	(footprint "connector_footprints:FW-04-03-G-D-150-160"
 		(layer "F.Cu")
 		(uuid "b4c3c872-3a02-4c9e-8c01-924ae0183b62")
 		(at 120.269 82.21934 90)
@@ -11984,7 +11984,7 @@
 				(justify top)
 			)
 		)
-		(property "Value" "FW-04-03-G-D-085-155"
+		(property "Value" "FW-04-03-G-D-150-160"
 			(at 0 4.572 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11997,7 +11997,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*696njn*_gcl_au*OTQ3NjE2MTIwLjE3NTQ5MDMyODE.*_ga*NzIxODQzNjU3LjE3NTQ5MDMyODI.*_ga_3KFNZC07WW*czE3NTk0NzU3MTckbzkkZzEkdDE3NTk0Nzk3ODIkajYwJGwwJGgw"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12009,7 +12009,7 @@
 				)
 			)
 		)
-		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  4 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
+		(property "Description" "Samtec FW-xx-03-G-D-150-160 series,  4 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12026,7 +12026,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eddd249a-66ed-44fb-a24d-8ac6c06f64f8")
+			(uuid "596a0cf0-d8a6-4e28-9219-e6ef140102a7")
 			(effects
 				(font
 					(size 1 1)
@@ -12039,7 +12039,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8e5ffe75-2933-4e3b-8da8-a049d540deb3")
+			(uuid "7a82dd9d-6496-4a0e-8b8c-cf67a2933f55")
 			(effects
 				(font
 					(size 1 1)
@@ -12052,7 +12052,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0085a8c3-e2b2-420d-9be8-ac1758d9b3e3")
+			(uuid "0c71dbb7-d5e2-4724-8131-79d016370b3b")
 			(effects
 				(font
 					(size 1 1)
@@ -12060,12 +12060,12 @@
 				)
 			)
 		)
-		(property "MPN" "FW-04-03-G-D-085-155"
+		(property "MPN" "FW-04-03-G-D-150-160"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "377a8329-e580-4169-bc22-7906a54771ae")
+			(uuid "f6c8b8bb-a00e-4c0f-9ec1-fa48b8c18da6")
 			(effects
 				(font
 					(size 1 1)
@@ -12078,7 +12078,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9e6518b4-c273-4eed-a1b4-719a8f3c7466")
+			(uuid "72b164e6-2631-4d8f-95b6-6f4679dfcbfb")
 			(effects
 				(font
 					(size 1 1)
@@ -12091,7 +12091,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2050b9f3-05e7-489d-87b4-acdb45952b0b")
+			(uuid "f653d222-01ff-4a6e-8f8c-2c3a494d14d6")
 			(effects
 				(font
 					(size 1 1)
@@ -12104,7 +12104,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8cc804b2-8022-4a48-8d1d-cc29b8ede75b")
+			(uuid "91766e51-d9b3-4ffd-8238-2bf510bebdf2")
 			(effects
 				(font
 					(size 1 1)
@@ -12117,7 +12117,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4fda3669-fac7-419e-b3f3-3de216bf00a9")
+			(uuid "80eb1d2e-25ac-4293-804a-55aff3e61d8a")
 			(effects
 				(font
 					(size 1 1)
@@ -12130,7 +12130,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "73a6dd9f-fa82-4986-995d-9308328aa099")
+			(uuid "9bb9149b-7019-48b2-a26f-a6d5b5432432")
 			(effects
 				(font
 					(size 1 1)
@@ -12143,7 +12143,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40f4ce8b-19d4-481c-8b64-2bbeebcc3786")
+			(uuid "2214f925-a394-4446-a46e-42e284119dac")
 			(effects
 				(font
 					(size 1 1)
@@ -12151,12 +12151,12 @@
 				)
 			)
 		)
-		(property "Series" "FW-xx-03-G-D-085-155"
+		(property "Series" "FW-xx-03-G-D-150-160"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "87dd4b08-cbc6-45a5-b52e-1fbc6622d899")
+			(uuid "df092c87-c1a8-4fe9-923e-c94dd4f6e0b0")
 			(effects
 				(font
 					(size 1 1)
@@ -12164,12 +12164,12 @@
 				)
 			)
 		)
-		(property "Symbol Name" "J_FW-04-03-G-D-085-155"
+		(property "Symbol Name" "J_FW-04-03-G-D-150-160"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "367309bd-db0d-4923-8b31-524afdefda49")
+			(uuid "eefb51cc-7532-424c-961f-a1f4e09f0cab")
 			(effects
 				(font
 					(size 1 1)
@@ -12177,12 +12177,12 @@
 				)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-04-03-G-D-085-155"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-04-03-G-D-150-160"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "48c179f5-0b77-4461-84de-66086c788d81")
+			(uuid "4be2111c-2ede-449b-b342-cd772830b6a3")
 			(effects
 				(font
 					(size 1 1)
@@ -12195,7 +12195,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a0a9c01b-2742-41f0-8cd5-a828ea4bf0c3")
+			(uuid "c238eb70-d266-4667-9d00-a1d89f3f034c")
 			(effects
 				(font
 					(size 1 1)
@@ -12215,7 +12215,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "d9b10ee7-5b18-4901-97d0-50bc5e6dcef7")
+			(uuid "ef74dc8a-24a1-4c61-ac50-a4a23cb4ada9")
 		)
 		(fp_circle
 			(center -3.17 -2.035)
@@ -12226,7 +12226,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "736edd71-91d5-41fd-a016-69ce2b05790a")
+			(uuid "b1e4355d-aa7f-405e-a4c3-c5a114996998")
 		)
 		(fp_circle
 			(center -3.17 -2.035)
@@ -12237,7 +12237,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "b2a48284-aa16-41d6-a279-6f65b4db5d68")
+			(uuid "cc3fcd95-8ff2-4751-bf26-52e9b0a30698")
 		)
 		(fp_rect
 			(start -2.77 3.8)
@@ -12248,7 +12248,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "b3c325d9-a42a-45c1-b9d1-8e017e61f86c")
+			(uuid "cd9769ad-841b-43b8-9fba-716ec5fc4b78")
 		)
 		(fp_rect
 			(start -2.77 3.8)
@@ -12259,7 +12259,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "3c664628-129c-44b7-9a3e-1929aba93f9d")
+			(uuid "c012c7fe-c2a3-4f11-b6f3-016b899eb2a9")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 5.842 90)
@@ -12281,17 +12281,6 @@
 			(roundrect_rratio 0.25)
 			(net 11 "/VIN")
 			(pintype "unspecified")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges yes)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "50b4d79c-0e54-451c-869e-c9d851cc09db")
 		)
 		(pad "2" smd roundrect
@@ -12301,17 +12290,6 @@
 			(roundrect_rratio 0.25)
 			(net 11 "/VIN")
 			(pintype "unspecified")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges yes)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "7aadd578-3a7d-4b31-aa26-04a47058d8b7")
 		)
 		(pad "3" smd roundrect
@@ -12321,17 +12299,6 @@
 			(roundrect_rratio 0.25)
 			(net 11 "/VIN")
 			(pintype "unspecified")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges yes)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "7d304ec1-9812-4364-98ad-d98a306ee664")
 		)
 		(pad "4" smd roundrect
@@ -12341,17 +12308,6 @@
 			(roundrect_rratio 0.25)
 			(net 11 "/VIN")
 			(pintype "unspecified")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges yes)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "169f9bc8-2670-453e-9180-04670b9532a3")
 		)
 		(pad "5" smd roundrect
@@ -12361,17 +12317,6 @@
 			(roundrect_rratio 0.25)
 			(net 9 "GND")
 			(pintype "unspecified")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges yes)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "48a4e560-e303-4fc9-9db1-46f60af4bc76")
 		)
 		(pad "6" smd roundrect
@@ -12381,17 +12326,6 @@
 			(roundrect_rratio 0.25)
 			(net 9 "GND")
 			(pintype "unspecified")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges yes)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "90e81dbd-26c3-4512-89dc-0e2ebad0881d")
 		)
 		(pad "7" smd roundrect
@@ -12401,17 +12335,6 @@
 			(roundrect_rratio 0.25)
 			(net 9 "GND")
 			(pintype "unspecified")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges yes)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "30b87173-5b2d-47ed-8872-08a8b1088e75")
 		)
 		(pad "8" smd roundrect
@@ -12421,21 +12344,10 @@
 			(roundrect_rratio 0.25)
 			(net 9 "GND")
 			(pintype "unspecified")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges yes)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "731a66b8-d4dc-4a6c-9fbd-b998cc94e663")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3D_MODELS_VAULT}/3D_models/connectors/FW-04-03-G-D-085-155.step"
+		(model "${KICAD9_3D_MODELS_VAULT}/3D_models/connectors/FW-04-03-G-D-150-160.step"
 			(offset
 				(xyz 0 0 0)
 			)

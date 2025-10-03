@@ -2338,7 +2338,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CONNECTORS_FW-xx-03-G-D-085-155_DATA_BASE:J_FW-04-03-G-D-085-155"
+		(symbol "CONNECTORS_FW-xx-03-G-D-150-160_DATA_BASE:J_FW-04-03-G-D-150-160"
 			(pin_names
 				(offset 0.254)
 			)
@@ -2354,7 +2354,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "FW-04-03-G-D-085-155"
+			(property "Value" "FW-04-03-G-D-150-160"
 				(at 5.08 -7.62 0)
 				(effects
 					(font
@@ -2363,7 +2363,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "connector_footprints:FW-04-03-G-D-085-155"
+			(property "Footprint" "connector_footprints:FW-04-03-G-D-150-160"
 				(at 5.08 -10.16 0)
 				(show_name)
 				(effects
@@ -2374,7 +2374,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
+			(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*696njn*_gcl_au*OTQ3NjE2MTIwLjE3NTQ5MDMyODE.*_ga*NzIxODQzNjU3LjE3NTQ5MDMyODI.*_ga_3KFNZC07WW*czE3NTk0NzU3MTckbzkkZzEkdDE3NTk0Nzk3ODIkajYwJGwwJGgw"
 				(at 5.08 -12.7 0)
 				(show_name)
 				(effects
@@ -2385,7 +2385,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  4 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
+			(property "Description" "Samtec FW-xx-03-G-D-150-160 series,  4 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 				(at 5.08 -15.24 0)
 				(show_name)
 				(effects
@@ -2429,7 +2429,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "FW-04-03-G-D-085-155"
+			(property "MPN" "FW-04-03-G-D-150-160"
 				(at 5.08 -25.4 0)
 				(show_name)
 				(effects
@@ -2506,7 +2506,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "FW-xx-03-G-D-085-155"
+			(property "Series" "FW-xx-03-G-D-150-160"
 				(at 5.08 -43.18 0)
 				(show_name)
 				(effects
@@ -2517,7 +2517,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "J_FW-04-03-G-D-085-155"
+			(property "Symbol Name" "J_FW-04-03-G-D-150-160"
 				(at 5.08 -45.72 0)
 				(show_name)
 				(effects
@@ -2528,7 +2528,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-04-03-G-D-085-155"
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-04-03-G-D-150-160"
 				(at 5.08 -48.26 0)
 				(show_name)
 				(effects
@@ -2550,7 +2550,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "J_FW-04-03-G-D-085-155_0_0"
+			(symbol "J_FW-04-03-G-D-150-160_0_0"
 				(pin unspecified line
 					(at -5.08 3.81 0)
 					(length 2.54)
@@ -2696,7 +2696,7 @@
 					)
 				)
 			)
-			(symbol "J_FW-04-03-G-D-085-155_1_0"
+			(symbol "J_FW-04-03-G-D-150-160_1_0"
 				(rectangle
 					(start -2.54 6.35)
 					(end 2.54 -6.35)
@@ -16316,7 +16316,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CONNECTORS_FW-xx-03-G-D-085-155_DATA_BASE:J_FW-04-03-G-D-085-155")
+		(lib_id "CONNECTORS_FW-xx-03-G-D-150-160_DATA_BASE:J_FW-04-03-G-D-150-160")
 		(at 88.9 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16333,7 +16333,7 @@
 				)
 			)
 		)
-		(property "Value" "FW-04-03-G-D-085-155"
+		(property "Value" "FW-04-03-G-D-150-160"
 			(at 88.9 111.76 0)
 			(effects
 				(font
@@ -16341,7 +16341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "connector_footprints:FW-04-03-G-D-085-155"
+		(property "Footprint" "connector_footprints:FW-04-03-G-D-150-160"
 			(at 93.98 130.81 0)
 			(show_name yes)
 			(effects
@@ -16352,7 +16352,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*696njn*_gcl_au*OTQ3NjE2MTIwLjE3NTQ5MDMyODE.*_ga*NzIxODQzNjU3LjE3NTQ5MDMyODI.*_ga_3KFNZC07WW*czE3NTk0NzU3MTckbzkkZzEkdDE3NTk0Nzk3ODIkajYwJGwwJGgw"
 			(at 93.98 133.35 0)
 			(show_name yes)
 			(effects
@@ -16363,7 +16363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  4 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
+		(property "Description" "Samtec FW-xx-03-G-D-150-160 series,  4 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 			(at 93.98 135.89 0)
 			(show_name yes)
 			(effects
@@ -16407,7 +16407,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "FW-04-03-G-D-085-155"
+		(property "MPN" "FW-04-03-G-D-150-160"
 			(at 93.98 146.05 0)
 			(show_name yes)
 			(effects
@@ -16484,7 +16484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "FW-xx-03-G-D-085-155"
+		(property "Series" "FW-xx-03-G-D-150-160"
 			(at 93.98 163.83 0)
 			(show_name yes)
 			(effects
@@ -16495,7 +16495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "J_FW-04-03-G-D-085-155"
+		(property "Symbol Name" "J_FW-04-03-G-D-150-160"
 			(at 93.98 166.37 0)
 			(show_name yes)
 			(effects
@@ -16506,7 +16506,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-04-03-G-D-085-155"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-04-03-G-D-150-160"
 			(at 93.98 168.91 0)
 			(show_name yes)
 			(effects
